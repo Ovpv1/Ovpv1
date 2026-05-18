@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there!
 
 - I'm Isaque dos Santos📝
 - Studying Computer Science at University of Fortaleza (UNIFOR)📚💻
